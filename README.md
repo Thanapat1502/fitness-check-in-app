@@ -94,6 +94,7 @@ _(Due to confidentiality, no real assets are shared.)_
 ![screenshot 1](./public/9_Event2%20-%20Made%20with%20Clipchamp.gif)
 
 </div>
+
 ---
 
 ## 🚀 Key Highlights
