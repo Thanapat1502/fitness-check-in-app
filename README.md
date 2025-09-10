@@ -77,11 +77,18 @@ _(Due to confidentiality, no real assets are shared. If possible, add anonymized
 ![screenshot 1](./public/2_register2_edit%20-%20Made%20with%20Clipchamp.gif)
 ![screenshot 1](./public/3_membercard_edit%20-%20Made%20with%20Clipchamp.gif)
 ![screenshot 1](./public/4_Staff_checkin%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/5_Staff_Switchmode%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/6_Trainerflow1%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/7_Trainerflow2%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/8_Event%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/9_Event2%20-%20Made%20with%20Clipchamp.gif)
+
+</div>
 
 ---
 
