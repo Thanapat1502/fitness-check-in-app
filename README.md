@@ -71,18 +71,29 @@ As a **Frontend Developer**, I was responsible for:
 
 ## 📸 Screenshots / Mockups
 
-_(Due to confidentiality, no real assets are shared. If possible, add anonymized UI mockups here to illustrate the flows.)_
+_(Due to confidentiality, no real assets are shared.)_
 
+<div align="center">
+  
 ![screenshot 1](./public/1_register1_gif%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/2_register2_gif%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/3_membercard%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/4_Staff_checkin%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/5_Staff_Switchmode%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/6_Trainerflow1%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/7_Trainerflow2%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/8_Event%20-%20Made%20with%20Clipchamp.gif)
+
 ![screenshot 1](./public/9_Event2%20-%20Made%20with%20Clipchamp.gif)
 
+</div>
 ---
 
 ## 🚀 Key Highlights
